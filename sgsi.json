@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://download.meizu.com/Firmware/Flyme/note9/8.20.9.30/cn_daily/20200930003719/61510e16/update.zip",
-  "rom_name": "xiaomi.eu_multi_HMNote7_20.9.17_v12-10.zip",
-  "pack_sgsi": "HMNote7_20.9.17_Q-eu_XiaoxinSGSIs_Pinkdoge.7z",
+  "rom_url": "https://download.meizu.com/Firmware/Flyme/16xs/8.20.10.27/cn_daily/20201027003607/ee0cbdd0/update.zip",
+  "rom_name": "Flyme.zip",
+  "pack_sgsi": "Flyme_XiaoxinSGSIs_Pinkdoge.7z",
   "make_miui": false,
   "make_flyme": true,
   "make_coloros": false,
